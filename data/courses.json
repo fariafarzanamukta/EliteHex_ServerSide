@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "index": 0,
+        "lessons": 10,
+        "ratting": "4.3(3)",
+        "img": "https://nieamulkabir.github.io/data-generate-file/js.png",
+        "sector": "Programming",
+        "title": "Mastering Javascript",
+        "description": "Basic to Advance JavaScript and ES6 For You",
+        "price": 3000
+    },
+    {
+        "id": "3",
+        "index": 2,
+        "lessons": 15,
+        "ratting": "4.6(4)",
+        "img": "https://nieamulkabir.github.io/data-generate-file/php.png",
+        "sector": "Scripting language",
+        "title": "Beginner To Advance PHP Course",
+        "description": "A popular general-purpose scripting language that is especially suited to web development.",
+        "price": 4500
+    },
+    {
+        "id": "4",
+        "index": 3,
+        "lessons": 18,
+        "ratting": "4.8(9)",
+        "img": "https://nieamulkabir.github.io/data-generate-file/react.png",
+        "sector": "Js Library",
+        "title": "React.js",
+        "description": "A JavaScript library for building user interfaces.Build encapsulated components that manage their own state",
+        "price": 3500
+    },
+    {
+        "id": "5",
+        "index": 4,
+        "lessons": 8,
+        "ratting": "4(3)",
+        "img": "https://nieamulkabir.github.io/data-generate-file/tailwind.png",
+        "sector": "CSS framework",
+        "title": "Tailwind-CSS",
+        "description": "A utility-first CSS framework packed with classes.It  can be composed to build any design.",
+        "price": 2000
+    },
+    {
+        "id": "6",
+        "index": 5,
+        "lessons": 12,
+        "ratting": "4.3(8)",
+        "img": "https://nieamulkabir.github.io/data-generate-file/digital.png",
+        "sector": "Marketing ",
+        "title": "Digital Marketing",
+        "description": "Insights. Ideas. Inspiration.Complete digital marketing course for all of the major Platform",
+        "price": 3000
+    },
+    {
+        "id": "14",
+        "index": 13,
+        "lessons": 12,
+        "ratting": "4.3(8)",
+        "img": "https://nieamulkabir.github.io/data-generate-file/react-native.png",
+        "sector": "Mobile App",
+        "title": "Learn React Native",
+        "description": "Create native apps for Android and iOS using React.React Native combines the best parts of native development",
+        "price": 3000
+    }
+]
