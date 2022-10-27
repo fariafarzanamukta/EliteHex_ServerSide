@@ -7,7 +7,6 @@ app.use(cors());
 
 const courses = require('./data/courses.json');
 
-
 app.get('/', (req, res) => {
     res.send('EduCare API Running');
 });
