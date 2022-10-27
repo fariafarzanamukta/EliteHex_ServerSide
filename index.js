@@ -23,5 +23,5 @@ app.get('/courses/:id', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log('EduCare Server running on port', port);
+    console.log('EliteHex Server running on port', port);
 })
